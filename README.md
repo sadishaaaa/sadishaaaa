@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a passionate js developer
-I'm interested in software development and programming
+I'm a passionate developer, interested in software development and programming
 
 
 ## 🌐 Socials:
